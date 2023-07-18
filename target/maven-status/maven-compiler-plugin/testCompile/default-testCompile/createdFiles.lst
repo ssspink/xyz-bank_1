@@ -1,0 +1,4 @@
+com\nopcommerce\demo\sw5\testbase\BaseTest.class
+com\nopcommerce\demo\sw5\testsuite\ElectronicsTest.class
+com\nopcommerce\demo\sw5\testdata\TestData.class
+com\nopcommerce\demo\sw5\testsuite\ComputersTest.class

@@ -1,0 +1,15 @@
+com\nopcommerce\demo\sw5\browserfactory\ManageBrowser.class
+com\nopcommerce\demo\sw5\utility\Utility.class
+com\nopcommerce\demo\sw5\pages\BuildYourOwnComputerPage.class
+com\nopcommerce\demo\sw5\propertyreader\PropertyReader.class
+com\nopcommerce\demo\sw5\pages\SignInPage.class
+com\nopcommerce\demo\sw5\pages\ComputersPage.class
+com\nopcommerce\demo\sw5\pages\RegisterPage.class
+com\nopcommerce\demo\sw5\pages\CellPhonesPage.class
+com\nopcommerce\demo\sw5\pages\DesktopsPage.class
+com\nopcommerce\demo\sw5\pages\ShoppingCartPage.class
+com\nopcommerce\demo\sw5\utility\Utility$1.class
+com\nopcommerce\demo\sw5\pages\HomePage.class
+com\nopcommerce\demo\sw5\pages\CheckOutPage.class
+com\nopcommerce\demo\sw5\cutomlisterners\CustomListeners.class
+com\nopcommerce\demo\sw5\pages\NokiaLumiaPage.class
